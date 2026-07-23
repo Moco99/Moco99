@@ -11,6 +11,7 @@
 ## 🚀 Proyectos destacados
 - IRIS → Sistema inteligente de tráfico
 - Deriva → App web de colaboración estudiantil para los alumnos del ITVER
+- Pegasus Agent → Agente de RAG para Pegasus, proyecto para el challenge de Oracle Next Education
 
 ## Badges
 ![Badge RAG Agente IA - Oracle Next Education](imgs/badge-rag-agente-ia.png)
