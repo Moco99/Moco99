@@ -5,7 +5,7 @@
 
 ## 🔧 Tech Stack
 - Python, JavaScript, Typescript
-- TensorFlow / PyTorch
+- TensorFlow / PyTorch / NestJs / NexJs / Vite / LangChain / LangGraph / HuggingFace
 - Docker, AWS / GCP / Azure / OCI
 
 ## 🚀 Proyectos destacados
