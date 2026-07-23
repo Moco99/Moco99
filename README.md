@@ -6,7 +6,7 @@
 ## 🔧 Tech Stack
 - Python, JavaScript, Typescript
 - TensorFlow / PyTorch
-- Docker, AWS / GCP / Azure
+- Docker, AWS / GCP / Azure / OCI
 
 ## 🚀 Proyectos destacados
 - IRIS → Sistema inteligente de tráfico
