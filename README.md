@@ -14,6 +14,7 @@
 
 ## Badges
 ![Badge RAG Agente IA - Oracle Next Education](imgs/badge-rag-agente-ia.png)
+![Badge OCI AI Foundations Associate - Oracle](imgs/OCI26AICFA.jpg)
 
 ## 📫 Contacto
 - LinkedIn: [Arturo Baez Solano](https://www.linkedin.com/in/arturo-baez-solano-1509213ba?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
