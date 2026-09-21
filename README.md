@@ -1,5 +1,7 @@
 # 👋 Hola, soy Arturo
 
+### Actualmente AWS Student Builder Group Leader @ ITVER
+
 💻 Computer Systems Engineering @ ITVER  
 🚀 Interesado en ML, IA Engineering, Cloud y Web Development
 
