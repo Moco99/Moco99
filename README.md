@@ -6,9 +6,9 @@
 🚀 Interesado en ML, IA Engineering, Cloud y Web Development
 
 ## 🔧 Tech Stack
-- Python, JavaScript, Typescript
-- TensorFlow / PyTorch / NestJs / NexJs / Vite / LangChain / LangGraph / HuggingFace
-- Docker, AWS / GCP / Azure / OCI
+- Python / JavaScript / Typescript / Java
+- TensorFlow / PyTorch / NestJs / NexJs / Vite / LangChain / LangGraph / HuggingFace / SpringBoot
+- Docker / AWS / OCI
 
 ## 🚀 Proyectos destacados
 - IRIS → Sistema inteligente de tráfico
