@@ -17,7 +17,7 @@
 - Pegasus Agent → Agente de RAG para Pegasus, proyecto para el challenge de Oracle Next Education
 
 ## Badges
-<img src="imgs/aws-certified-cloud-practitioner.png"> <img src="imgs/aws-certified-ai-practitioner.png"> <img src="imgs/OCI26AICFA.png" alt="Badge OCI AI Foundations Associate - Oracle" height="150"> <img src="imgs/badge-rag-agente-ia.png" alt="Badge RAG Agente IA - Oracle Next Education" height="150"> 
+<img src="imgs/aws-certified-cloud-practitioner.png"> <img src="imgs/aws-certified-ai-practitioner.png"> <img src="imgs/OCI26AICFA.png" alt="Badge OCI AI Foundations Associate - Oracle" height="150"> <img src="imgs/badge-rag-agente-ia.png" alt="Badge RAG Agente IA - Oracle Next Education" height="150"> <imgs src="imgs/aws-sbg-leader-badge.png"> <imgs src="imgs/aws-sbg-spark-badge.png"> <imgs src="imgs/aws-sbg-ignite-badge.png"> <imgs src="imgs/aws-sbg-surge-badge.png">
 
 ## Contactame!
 - [Mis links](https://beacons.ai/moco99dev)
