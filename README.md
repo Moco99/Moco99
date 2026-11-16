@@ -19,5 +19,5 @@
 ## Badges
 <img src="imgs/aws-certified-cloud-practitioner.png"> <img src="imgs/aws-certified-ai-practitioner.png"> <img src="imgs/OCI26AICFA.png" alt="Badge OCI AI Foundations Associate - Oracle" height="150"> <img src="imgs/badge-rag-agente-ia.png" alt="Badge RAG Agente IA - Oracle Next Education" height="150"> 
 
-## 📫 Contacto
-- LinkedIn: [Arturo Baez Solano](https://www.linkedin.com/in/arturo-baez-solano-1509213ba?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+## Contactame!
+- [Mis links](https://beacons.ai/moco99dev)
