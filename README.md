@@ -17,7 +17,22 @@
 - Pegasus Agent → Agente de RAG para Pegasus, proyecto para el challenge de Oracle Next Education
 
 ## Badges
-<img src="imgs/aws-certified-cloud-practitioner.png"> <img src="imgs/aws-certified-ai-practitioner.png"> <img src="imgs/OCI26AICFA.png" alt="Badge OCI AI Foundations Associate - Oracle" height="150"> <img src="imgs/badge-rag-agente-ia.png" alt="Badge RAG Agente IA - Oracle Next Education" height="150"> <img src="imgs/aws-sbg-leader-badge.png"> <img src="imgs/aws-sbg-spark-badge.png"> <img src="imgs/aws-sbg-ignite-badge.png"> <img src="imgs/aws-sbg-surge-badge.png">
+
+<p>
+  <img src="imgs/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" height="130">&nbsp;&nbsp;&nbsp;
+  <img src="imgs/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" height="130">&nbsp;&nbsp;&nbsp;
+  <img src="imgs/OCI26AICFA.png" alt="Oracle AI Foundations Associate" height="130">&nbsp;&nbsp;&nbsp;
+  <img src="imgs/badge-rag-agente-ia.png" alt="RAG Agente IA - Oracle Next Education" height="130">
+</p>
+
+<br>
+
+<p>
+  <img src="imgs/aws-sbg-leader-badge.png" alt="AWS Student Builder Group Leader" height="130">&nbsp;&nbsp;&nbsp;
+  <img src="imgs/aws-sbg-spark-badge.png" alt="AWS Student Builder Group Spark" height="130">&nbsp;&nbsp;&nbsp;
+  <img src="imgs/aws-sbg-ignite-badge.png" alt="AWS Student Builder Group Ignite" height="130">&nbsp;&nbsp;&nbsp;
+  <img src="imgs/aws-sbg-surge-badge.png" alt="AWS Student Builder Group Surge" height="130">
+</p>
 
 ## Contactame!
 - [Mis links](https://beacons.ai/moco99dev)
