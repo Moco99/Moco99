@@ -1,4 +1,4 @@
-# 👋 Hola, soy Arturo
+# Hola, soy Arturo!
 
 ### Actualmente AWS Student Builder Group Leader @ ITVER
 
