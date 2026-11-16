@@ -18,14 +18,12 @@
 
 ## Badges
 
-<table>
-  <tr>
-    <td width="25%" align="center"><img src="imgs/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" height="130"></td>
-    <td width="25%" align="center"><img src="imgs/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" height="130"></td>
-    <td width="25%" align="center"><img src="imgs/OCI26AICFA.png" alt="Oracle AI Foundations Associate" height="130"></td>
-    <td width="25%" align="center"><img src="imgs/badge-rag-agente-ia.png" alt="RAG Agente IA - Oracle Next Education" height="130"></td>
-  </tr>
-</table>
+<p>
+  <img src="imgs/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" height="130">&nbsp;&nbsp;&nbsp;
+  <img src="imgs/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" height="130">&nbsp;&nbsp;&nbsp;
+  <img src="imgs/OCI26AICFA.png" alt="Oracle AI Foundations Associate" height="130">&nbsp;&nbsp;&nbsp;
+  <img src="imgs/badge-rag-agente-ia.png" alt="RAG Agente IA - Oracle Next Education" height="130">
+</p>
 
 <br>
 
